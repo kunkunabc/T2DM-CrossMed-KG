@@ -1,4 +1,0 @@
-Manifest-Version: 1.0
-Main-Class: de.unima.ki.anyburl.Apply
-Created-By: 17.0.7 (Eclipse Adoptium)
-
