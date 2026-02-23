@@ -1,0 +1,41 @@
+# PyTorch2.0.0 python3.8 cuda11.8
+
+# 原始数据路径
+data:
+  triplets_path: "data/final_unique_merged_triples.csv"
+  genes_path: "data/diabetes_genes.txt"
+
+# 划分比例
+splits:
+  train_size: 0.9
+  valid_size: 0.05
+  test_size: 0.05
+
+
+# ==== 训练超参数 ====
+training:
+  embedding_dim: 400
+  learning_rate: 5e-4
+  regularization_coef: 1e-9
+  margin: 6.0
+  batch_size: 1024
+  num_epochs: 150
+  neg_per_pos: 200
+
+# ==== 评估超参数 ====
+evaluation:
+  batch_size: 256            # 评估时的最小批大小
+  slice_size: 256           # 评估切片大小，减轻显存压力
+
+
+# AnyBurl 配置
+anyburl:
+  jar_path: "anyburl/AnyBURL-23-1.jar"
+  max_length: 5
+  target_types:
+    - "化合物"
+    - "中药"
+  tail_types:
+    - "疾病MM"
+    - "疾病TCM"
+  path_limit: 100000
