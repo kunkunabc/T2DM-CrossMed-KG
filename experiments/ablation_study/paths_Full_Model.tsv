@@ -1,0 +1,191 @@
+Drug	Rank	Score	Type	Path
+HEB1435	1	0.2134	BFS_PATH	HEB1435 -> is_associated_with -> GEE04859 -> experiments -> GEE05772 -> experiments -> GEE16564 -> is_associated_with -> DM06
+HEB1435	2	0.2134	BFS_PATH	HEB1435 -> is_associated_with -> GEE04859 -> experiments -> GEE00401 -> experiments -> GEE09873 -> is_associated_with -> DM06
+HEB1435	3	0.2134	BFS_PATH	HEB1435 -> is_associated_with -> GEE04495 -> experiments -> GEE00209 -> experiments -> GEE06982 -> is_associated_with -> DM06
+HEB1435	4	0.2134	BFS_PATH	HEB1435 -> is_associated_with -> GEE03899 -> experiments -> GEE02617 -> experiments -> GEE11508 -> is_associated_with -> DM06
+HEB1435	5	0.2134	BFS_PATH	HEB1435 -> is_associated_with -> GEE03899 -> experiments -> GEE01290 -> experiments -> GEE02648 -> is_associated_with -> DM06
+HEB1435	6	0.2134	BFS_PATH	HEB1435 -> is_associated_with -> GEE03899 -> experiments -> GEE00851 -> experiments -> GEE02648 -> is_associated_with -> DM06
+HEB1435	7	0.2134	BFS_PATH	HEB1435 -> is_associated_with -> GEE03793 -> experiments -> GEE07742 -> experiments -> GEE11048 -> is_associated_with -> DM06
+HEB1435	8	0.2134	BFS_PATH	HEB1435 -> is_associated_with -> GEE03793 -> experiments -> GEE05078 -> experiments -> GEE11048 -> is_associated_with -> DM06
+HEB1435	9	0.2134	BFS_PATH	HEB1435 -> is_associated_with -> GEE03793 -> experiments -> GEE03403 -> experiments -> GEE07592 -> is_associated_with -> DM06
+HEB1435	10	0.2134	BFS_PATH	HEB1435 -> is_associated_with -> GEE03720 -> experiments -> GEE17349 -> experiments -> GEE11675 -> is_associated_with -> DM06
+HEB1482	1	0.3406	"137	29	0.2116788321167883	candidate_for(X,DM06) <= is_associated_with(X,A), experiments_transferred(A,GEE00736)"	HEB1482 -> is_associated_with -> GEE03969 -> experiments_transferred -> GEE00736 -> candidate_for -> DM06
+HEB1482	2	0.2266	"101	18	0.1782178217821782	candidate_for(X,DM06) <= includes(X,A), regulates(A,GEE14778)"	HEB1482 -> includes -> INT06720 -> regulates -> GEE14778 -> candidate_for -> DM06
+HEB1482	3	0.2222	"688	95	0.1380813953488372	candidate_for(X,DM06) <= is_associated_with(X,A), experiments_transferred(A,GEE08100)"	HEB1482 -> is_associated_with -> GEE14680 -> experiments_transferred -> GEE08100 -> candidate_for -> DM06
+HEB1482	4	0.2222	"688	95	0.1380813953488372	candidate_for(X,DM06) <= is_associated_with(X,A), experiments_transferred(A,GEE08100)"	HEB1482 -> is_associated_with -> GEE13268 -> experiments_transferred -> GEE08100 -> candidate_for -> DM06
+HEB1482	5	0.2222	"688	95	0.1380813953488372	candidate_for(X,DM06) <= is_associated_with(X,A), experiments_transferred(A,GEE08100)"	HEB1482 -> is_associated_with -> GEE12337 -> experiments_transferred -> GEE08100 -> candidate_for -> DM06
+HEB1482	6	0.2222	"688	95	0.1380813953488372	candidate_for(X,DM06) <= is_associated_with(X,A), experiments_transferred(A,GEE08100)"	HEB1482 -> is_associated_with -> GEE12217 -> experiments_transferred -> GEE08100 -> candidate_for -> DM06
+HEB1482	7	0.2222	"688	95	0.1380813953488372	candidate_for(X,DM06) <= is_associated_with(X,A), experiments_transferred(A,GEE08100)"	HEB1482 -> is_associated_with -> GEE09523 -> experiments_transferred -> GEE08100 -> candidate_for -> DM06
+HEB1482	8	0.2222	"688	95	0.1380813953488372	candidate_for(X,DM06) <= is_associated_with(X,A), experiments_transferred(A,GEE08100)"	HEB1482 -> is_associated_with -> GEE08700 -> experiments_transferred -> GEE08100 -> candidate_for -> DM06
+HEB1482	9	0.2222	"688	95	0.1380813953488372	candidate_for(X,DM06) <= is_associated_with(X,A), experiments_transferred(A,GEE08100)"	HEB1482 -> is_associated_with -> GEE07476 -> experiments_transferred -> GEE08100 -> candidate_for -> DM06
+HEB1482	10	0.2208	"153	21	0.13725490196078433	candidate_for(X,DM06) <= is_associated_with(X,A), experiments_transferred(A,GEE12135)"	HEB1482 -> is_associated_with -> GEE16679 -> experiments_transferred -> GEE12135 -> candidate_for -> DM06
+HEB5161	1	0.3699	"7	3	0.42857142857142855	candidate_for(X,DM06) <= is_associated_with(X,A), textmining(A,GEE16912)"	HEB5161 -> is_associated_with -> GEE18577 -> textmining -> GEE16912 -> candidate_for -> DM06
+HEB5161	2	0.3406	"137	29	0.2116788321167883	candidate_for(X,DM06) <= is_associated_with(X,A), experiments_transferred(A,GEE00736)"	HEB5161 -> is_associated_with -> GEE03969 -> experiments_transferred -> GEE00736 -> candidate_for -> DM06
+HEB5161	3	0.3140	"82	16	0.1951219512195122	candidate_for(X,DM06) <= is_associated_with(X,A), experiments_transferred(A,GEE09148)"	HEB5161 -> is_associated_with -> GEE09255 -> experiments_transferred -> GEE09148 -> candidate_for -> DM06
+HEB5161	4	0.2877	"9	3	0.3333333333333333	candidate_for(X,DM06) <= is_associated_with(X,A), textmining(A,GEE16181)"	HEB5161 -> is_associated_with -> GEE19441 -> textmining -> GEE16181 -> candidate_for -> DM06
+HEB5161	5	0.2877	"9	3	0.3333333333333333	candidate_for(X,DM06) <= is_associated_with(X,A), textmining(A,GEE16181)"	HEB5161 -> is_associated_with -> GEE16371 -> textmining -> GEE16181 -> candidate_for -> DM06
+HEB5161	6	0.2877	"12	4	0.3333333333333333	candidate_for(X,DM06) <= is_associated_with(X,A), coexpression(A,GEE12307)"	HEB5161 -> is_associated_with -> GEE09507 -> coexpression -> GEE12307 -> candidate_for -> DM06
+HEB5161	7	0.2497	"567	88	0.15520282186948853	candidate_for(X,DM06) <= is_associated_with(X,A), experiments(A,GEE09016)"	HEB5161 -> is_associated_with -> GEE04090 -> experiments -> GEE09016 -> candidate_for -> DM06
+HEB5161	8	0.2466	"7	2	0.2857142857142857	candidate_for(X,DM06) <= is_associated_with(X,A), textmining(A,GEE16641)"	HEB5161 -> is_associated_with -> GEE16922 -> textmining -> GEE16641 -> candidate_for -> DM06
+HEB5161	9	0.2399	"53	10	0.18867924528301888	candidate_for(X,DM06) <= includes(X,A), acts_on(A,GEE15482)"	HEB5161 -> includes -> INT05811 -> acts_on -> GEE15482 -> candidate_for -> DM06
+HEB5161	10	0.2381	"10	3	0.3	candidate_for(X,DM06) <= is_associated_with(X,A), covaries(A,GEE04369)"	HEB5161 -> is_associated_with -> GEE13708 -> covaries -> GEE04369 -> candidate_for -> DM06
+HEB3348	1	0.3406	"137	29	0.2116788321167883	candidate_for(X,DM06) <= is_associated_with(X,A), experiments_transferred(A,GEE00736)"	HEB3348 -> is_associated_with -> GEE03969 -> experiments_transferred -> GEE00736 -> candidate_for -> DM06
+HEB3348	2	0.2877	"12	4	0.3333333333333333	candidate_for(X,DM06) <= is_associated_with(X,A), coexpression(A,GEE12307)"	HEB3348 -> is_associated_with -> GEE09507 -> coexpression -> GEE12307 -> candidate_for -> DM06
+HEB3348	3	0.2741	"81	18	0.2222222222222222	candidate_for(X,DM06) <= includes(X,A), regulates(A,GEE19383)"	HEB3348 -> includes -> INT05668 -> regulates -> GEE19383 -> candidate_for -> DM06
+HEB3348	4	0.2741	"81	18	0.2222222222222222	candidate_for(X,DM06) <= includes(X,A), regulates(A,GEE06639)"	HEB3348 -> includes -> INT05668 -> regulates -> GEE06639 -> candidate_for -> DM06
+HEB3348	5	0.2301	"15	4	0.26666666666666666	candidate_for(X,DM06) <= is_associated_with(X,A), homology(A,GEE15628)"	HEB3348 -> is_associated_with -> GEE12417 -> homology -> GEE15628 -> candidate_for -> DM06
+HEB3348	6	0.2222	"688	95	0.1380813953488372	candidate_for(X,DM06) <= is_associated_with(X,A), experiments_transferred(A,GEE08100)"	HEB3348 -> is_associated_with -> GEE14680 -> experiments_transferred -> GEE08100 -> candidate_for -> DM06
+HEB3348	7	0.2222	"688	95	0.1380813953488372	candidate_for(X,DM06) <= is_associated_with(X,A), experiments_transferred(A,GEE08100)"	HEB3348 -> is_associated_with -> GEE13268 -> experiments_transferred -> GEE08100 -> candidate_for -> DM06
+HEB3348	8	0.2222	"688	95	0.1380813953488372	candidate_for(X,DM06) <= is_associated_with(X,A), experiments_transferred(A,GEE08100)"	HEB3348 -> is_associated_with -> GEE12337 -> experiments_transferred -> GEE08100 -> candidate_for -> DM06
+HEB3348	9	0.2222	"688	95	0.1380813953488372	candidate_for(X,DM06) <= is_associated_with(X,A), experiments_transferred(A,GEE08100)"	HEB3348 -> is_associated_with -> GEE12217 -> experiments_transferred -> GEE08100 -> candidate_for -> DM06
+HEB3348	10	0.2222	"688	95	0.1380813953488372	candidate_for(X,DM06) <= is_associated_with(X,A), experiments_transferred(A,GEE08100)"	HEB3348 -> is_associated_with -> GEE09523 -> experiments_transferred -> GEE08100 -> candidate_for -> DM06
+HEB0006	1	0.2497	"567	88	0.15520282186948853	candidate_for(X,DM06) <= is_associated_with(X,A), experiments(A,GEE09016)"	HEB0006 -> is_associated_with -> GEE04090 -> experiments -> GEE09016 -> candidate_for -> DM06
+HEB0006	2	0.2266	"101	18	0.1782178217821782	candidate_for(X,DM06) <= includes(X,A), regulates(A,GEE14778)"	HEB0006 -> includes -> INT06720 -> regulates -> GEE14778 -> candidate_for -> DM06
+HEB0006	3	0.2222	"688	95	0.1380813953488372	candidate_for(X,DM06) <= is_associated_with(X,A), experiments_transferred(A,GEE08100)"	HEB0006 -> is_associated_with -> GEE14062 -> experiments_transferred -> GEE08100 -> candidate_for -> DM06
+HEB0006	4	0.2222	"688	95	0.1380813953488372	candidate_for(X,DM06) <= is_associated_with(X,A), experiments_transferred(A,GEE08100)"	HEB0006 -> is_associated_with -> GEE07476 -> experiments_transferred -> GEE08100 -> candidate_for -> DM06
+HEB0006	5	0.2208	"153	21	0.13725490196078433	candidate_for(X,DM06) <= is_associated_with(X,A), experiments_transferred(A,GEE12135)"	HEB0006 -> is_associated_with -> GEE15424 -> experiments_transferred -> GEE12135 -> candidate_for -> DM06
+HEB0006	6	0.2208	"153	21	0.13725490196078433	candidate_for(X,DM06) <= is_associated_with(X,A), experiments_transferred(A,GEE12135)"	HEB0006 -> is_associated_with -> GEE08207 -> experiments_transferred -> GEE12135 -> candidate_for -> DM06
+HEB0006	7	0.2206	"423	58	0.13711583924349882	candidate_for(X,DM06) <= is_associated_with(X,A), experiments_transferred(A,GEE01510)"	HEB0006 -> is_associated_with -> GEE06417 -> experiments_transferred -> GEE01510 -> candidate_for -> DM06
+HEB0006	8	0.2102	"71	11	0.15492957746478872	candidate_for(X,DM06) <= includes(X,A), acts_on(A,GEE01442)"	HEB0006 -> includes -> INT36432 -> acts_on -> GEE01442 -> candidate_for -> DM06
+HEB0006	9	0.2068	"388	54	0.13917525773195877	candidate_for(X,DM06) <= includes(X,A), acts_on(A,GEE01622)"	HEB0006 -> includes -> INT04563 -> acts_on -> GEE01622 -> candidate_for -> DM06
+HEB0006	10	0.2064	"73	11	0.1506849315068493	candidate_for(X,DM06) <= includes(X,A), regulates(A,GEE07843)"	HEB0006 -> includes -> INT02053 -> regulates -> GEE07843 -> candidate_for -> DM06
+HEB5184	1	0.2497	"567	88	0.15520282186948853	candidate_for(X,DM06) <= is_associated_with(X,A), experiments(A,GEE09016)"	HEB5184 -> is_associated_with -> GEE04090 -> experiments -> GEE09016 -> candidate_for -> DM06
+HEB5184	2	0.2399	"53	10	0.18867924528301888	candidate_for(X,DM06) <= includes(X,A), acts_on(A,GEE15482)"	HEB5184 -> includes -> INT05811 -> acts_on -> GEE15482 -> candidate_for -> DM06
+HEB5184	3	0.2222	"688	95	0.1380813953488372	candidate_for(X,DM06) <= is_associated_with(X,A), experiments_transferred(A,GEE08100)"	HEB5184 -> is_associated_with -> GEE07476 -> experiments_transferred -> GEE08100 -> candidate_for -> DM06
+HEB5184	4	0.2206	"423	58	0.13711583924349882	candidate_for(X,DM06) <= is_associated_with(X,A), experiments_transferred(A,GEE01510)"	HEB5184 -> is_associated_with -> GEE06417 -> experiments_transferred -> GEE01510 -> candidate_for -> DM06
+HEB5184	5	0.2137	"286	53	0.1853146853146853	candidate_for(X,DM06) <= includes(X,A), indirect_influence(A,ZH178)"	HEB5184 -> includes -> INT04841 -> indirect_influence -> ZH178 -> candidate_for -> DM06
+HEB5184	6	0.2066	"286	53	0.1853146853146853	candidate_for(X,DM06) <= includes(X,A), indirect_influence(A,ZH178)"	HEB5184 -> includes -> INT03967 -> indirect_influence -> ZH178 -> candidate_for -> DM06
+HEB5184	7	0.2059	"142	23	0.1619718309859155	candidate_for(X,DM06) <= includes(X,A), acts_on(A,GEE05057)"	HEB5184 -> includes -> INT05811 -> acts_on -> GEE05057 -> candidate_for -> DM06
+HEB5184	8	0.2033	"337	63	0.18694362017804153	candidate_for(X,DM06) <= includes(X,A), acts_on(A,GEE14524)"	HEB5184 -> includes -> INT35934 -> acts_on -> GEE14524 -> candidate_for -> DM06
+HEB5184	9	0.2021	"286	53	0.1853146853146853	candidate_for(X,DM06) <= includes(X,A), indirect_influence(A,ZH178)"	HEB5184 -> includes -> INT00210 -> indirect_influence -> ZH178 -> candidate_for -> DM06
+HEB5184	10	0.1954	"255	40	0.1568627450980392	candidate_for(X,DM06) <= includes(X,A), regulates(A,GEE01261)"	HEB5184 -> includes -> INT00304 -> regulates -> GEE01261 -> candidate_for -> DM06
+HEB5058	1	0.2497	"567	88	0.15520282186948853	candidate_for(X,DM06) <= is_associated_with(X,A), experiments(A,GEE09016)"	HEB5058 -> is_associated_with -> GEE04090 -> experiments -> GEE09016 -> candidate_for -> DM06
+HEB5058	2	0.2222	"688	95	0.1380813953488372	candidate_for(X,DM06) <= is_associated_with(X,A), experiments_transferred(A,GEE08100)"	HEB5058 -> is_associated_with -> GEE07476 -> experiments_transferred -> GEE08100 -> candidate_for -> DM06
+HEB5058	3	0.2134	BFS_PATH	HEB5058 -> is_associated_with -> GEE11514 -> experiments_transferred -> GEE07619 -> experiments_transferred -> GEE15420 -> is_associated_with -> DM06
+HEB5058	4	0.2134	BFS_PATH	HEB5058 -> is_associated_with -> GEE11514 -> experiments_transferred -> GEE07619 -> experiments -> GEE15420 -> is_associated_with -> DM06
+HEB5058	5	0.2134	BFS_PATH	HEB5058 -> is_associated_with -> GEE11514 -> experiments_transferred -> GEE03064 -> experiments -> GEE15420 -> is_associated_with -> DM06
+HEB5058	6	0.2134	BFS_PATH	HEB5058 -> is_associated_with -> GEE11514 -> experiments_transferred -> GEE02738 -> experiments -> GEE15420 -> is_associated_with -> DM06
+HEB5058	7	0.2134	BFS_PATH	HEB5058 -> is_associated_with -> GEE11514 -> experiments_transferred -> GEE01605 -> experiments -> GEE15420 -> is_associated_with -> DM06
+HEB5058	8	0.2134	BFS_PATH	HEB5058 -> is_associated_with -> GEE11514 -> experiments_transferred -> GEE00911 -> experiments -> GEE15420 -> is_associated_with -> DM06
+HEB5058	9	0.2134	BFS_PATH	HEB5058 -> is_associated_with -> GEE11514 -> experiments -> GEE03064 -> experiments -> GEE15420 -> is_associated_with -> DM06
+HEB5058	10	0.2134	BFS_PATH	HEB5058 -> is_associated_with -> GEE11514 -> experiments -> GEE02738 -> experiments -> GEE15420 -> is_associated_with -> DM06
+HEB4619	1	0.2497	"567	88	0.15520282186948853	candidate_for(X,DM06) <= is_associated_with(X,A), experiments(A,GEE09016)"	HEB4619 -> is_associated_with -> GEE04090 -> experiments -> GEE09016 -> candidate_for -> DM06
+HEB4619	2	0.2266	"101	18	0.1782178217821782	candidate_for(X,DM06) <= includes(X,A), regulates(A,GEE14778)"	HEB4619 -> includes -> INT06720 -> regulates -> GEE14778 -> candidate_for -> DM06
+HEB4619	3	0.2222	"688	95	0.1380813953488372	candidate_for(X,DM06) <= is_associated_with(X,A), experiments_transferred(A,GEE08100)"	HEB4619 -> is_associated_with -> GEE07476 -> experiments_transferred -> GEE08100 -> candidate_for -> DM06
+HEB4619	4	0.2125	"286	53	0.1853146853146853	candidate_for(X,DM06) <= includes(X,A), indirect_influence(A,ZH178)"	HEB4619 -> includes -> INT09745 -> indirect_influence -> ZH178 -> candidate_for -> DM06
+HEB4619	5	0.2066	"197	31	0.15736040609137056	candidate_for(X,DM06) <= includes(X,A), acts_on(A,GEE03602)"	HEB4619 -> includes -> INT10792 -> acts_on -> GEE03602 -> candidate_for -> DM06
+HEB4619	6	0.2033	"337	63	0.18694362017804153	candidate_for(X,DM06) <= includes(X,A), acts_on(A,GEE14524)"	HEB4619 -> includes -> INT35934 -> acts_on -> GEE14524 -> candidate_for -> DM06
+HEB4619	7	0.2020	"169	26	0.15384615384615385	candidate_for(X,DM06) <= includes(X,A), acts_on(A,GEE00335)"	HEB4619 -> includes -> INT10792 -> acts_on -> GEE00335 -> candidate_for -> DM06
+HEB4619	8	0.1982	"73	11	0.1506849315068493	candidate_for(X,DM06) <= includes(X,A), regulates(A,GEE07843)"	HEB4619 -> includes -> INT06294 -> regulates -> GEE07843 -> candidate_for -> DM06
+HEB4619	9	0.1923	"502	60	0.11952191235059761	candidate_for(X,DM06) <= is_associated_with(X,A), experiments(A,GEE01512)"	HEB4619 -> is_associated_with -> GEE02137 -> experiments -> GEE01512 -> candidate_for -> DM06
+HEB4619	10	0.1912	"234	34	0.1452991452991453	candidate_for(X,DM06) <= includes(X,A), regulates(A,GEE11897)"	HEB4619 -> includes -> INT06294 -> regulates -> GEE11897 -> candidate_for -> DM06
+HEB2834	1	0.2530	"11	2	0.18181818181818182	candidate_for(X,DM06) <= includes(X,A), regulates(A,GEE02471)"	HEB2834 -> includes -> INT00025 -> regulates -> GEE02471 -> candidate_for -> DM06
+HEB2834	2	0.1748	"13	2	0.15384615384615385	candidate_for(X,DM06) <= includes(X,A), treats(A,DIMM00497)"	HEB2834 -> includes -> INT00025 -> treats -> DIMM00497 -> candidate_for -> DM06
+HEB2834	3	0.1689	"383	54	0.1409921671018277	candidate_for(X,DM06) <= includes(X,A), treats(A,TS1230)"	HEB2834 -> includes -> INT23471 -> treats -> TS1230 -> candidate_for -> DM06
+HEB2834	4	0.1556	"322	36	0.11180124223602485	candidate_for(X,DM06) <= includes(X,A), regulates(A,GEE01124)"	HEB2834 -> includes -> INT00025 -> regulates -> GEE01124 -> candidate_for -> DM06
+HEB2834	5	0.1417	"532	65	0.12218045112781954	candidate_for(X,DM06) <= includes(X,A), indirect_influence(A,ZH230)"	HEB2834 -> includes -> INT08457 -> indirect_influence -> ZH230 -> candidate_for -> DM06
+HEB2834	6	0.1405	"388	47	0.1211340206185567	candidate_for(X,DM06) <= includes(X,A), treats(A,TS2498)"	HEB2834 -> includes -> INT08457 -> treats -> TS2498 -> candidate_for -> DM06
+HEB2834	7	0.1385	"514	61	0.11867704280155641	candidate_for(X,DM06) <= includes(X,A), indirect_influence(A,ZH078)"	HEB2834 -> includes -> INT22389 -> indirect_influence -> ZH078 -> candidate_for -> DM06
+HEB2834	8	0.1381	"323	40	0.1238390092879257	candidate_for(X,DM06) <= includes(X,A), treats(A,TS2844)"	HEB2834 -> includes -> INT15207 -> treats -> TS2844 -> candidate_for -> DM06
+HEB2834	9	0.1380	"696	81	0.11637931034482758	candidate_for(X,DM06) <= includes(X,A), treats(A,TS0993)"	HEB2834 -> includes -> INT17744 -> treats -> TS0993 -> candidate_for -> DM06
+HEB2834	10	0.1352	"430	49	0.11395348837209303	candidate_for(X,DM06) <= includes(X,A), treats(A,TS2895)"	HEB2834 -> includes -> INT12798 -> treats -> TS2895 -> candidate_for -> DM06
+HEB2050	1	0.2497	"567	88	0.15520282186948853	candidate_for(X,DM06) <= is_associated_with(X,A), experiments(A,GEE09016)"	HEB2050 -> is_associated_with -> GEE04090 -> experiments -> GEE09016 -> candidate_for -> DM06
+HEB2050	2	0.2397	BFS_PATH	HEB2050 -> is_associated_with -> GEE10314 -> experiments -> GEE07134 -> is_associated_with -> DM06
+HEB2050	3	0.2222	"688	95	0.1380813953488372	candidate_for(X,DM06) <= is_associated_with(X,A), experiments_transferred(A,GEE08100)"	HEB2050 -> is_associated_with -> GEE07476 -> experiments_transferred -> GEE08100 -> candidate_for -> DM06
+HEB2050	4	0.2194	"261	44	0.1685823754789272	candidate_for(X,DM06) <= includes(X,A), acts_on(A,GEE10627)"	HEB2050 -> includes -> INT36042 -> acts_on -> GEE10627 -> candidate_for -> DM06
+HEB2050	5	0.2138	"71	11	0.15492957746478872	candidate_for(X,DM06) <= includes(X,A), acts_on(A,GEE01442)"	HEB2050 -> includes -> INT36044 -> acts_on -> GEE01442 -> candidate_for -> DM06
+HEB2050	6	0.2134	BFS_PATH	HEB2050 -> is_associated_with -> GEE10961 -> experiments_transferred -> GEE00900 -> experiments -> GEE13159 -> is_associated_with -> DM06
+HEB2050	7	0.2134	BFS_PATH	HEB2050 -> is_associated_with -> GEE10900 -> experiments -> GEE12412 -> experiments -> GEE15632 -> is_associated_with -> DM06
+HEB2050	8	0.2134	BFS_PATH	HEB2050 -> is_associated_with -> GEE10900 -> experiments -> GEE12412 -> experiments -> GEE11025 -> is_associated_with -> DM06
+HEB2050	9	0.2134	BFS_PATH	HEB2050 -> is_associated_with -> GEE10314 -> experiments -> GEE09572 -> experiments -> GEE07134 -> is_associated_with -> DM06
+HEB2050	10	0.2134	BFS_PATH	HEB2050 -> is_associated_with -> GEE10314 -> experiments -> GEE07830 -> experiments -> GEE07134 -> is_associated_with -> DM06
+DCP11264	1	0.3924	"82	20	0.24390243902439024	candidate_for(X,DM06) <= downregulates(X,A), experiments_transferred(A,GEE10905)"	DCP11264 -> downregulates -> GEE02562 -> experiments_transferred -> GEE10905 -> candidate_for -> DM06
+DCP11264	2	0.3189	"111	22	0.1981981981981982	candidate_for(X,DM06) <= downregulates(X,A), experiments_transferred(A,GEE07121)"	DCP11264 -> downregulates -> GEE02562 -> experiments_transferred -> GEE07121 -> candidate_for -> DM06
+DCP11264	3	0.3118	"129	25	0.1937984496124031	candidate_for(X,DM06) <= downregulates(X,A), experiments(A,GEE05986)"	DCP11264 -> downregulates -> GEE02562 -> experiments -> GEE05986 -> candidate_for -> DM06
+DCP11264	4	0.2736	"247	42	0.1700404858299595	candidate_for(X,DM06) <= downregulates(X,A), experiments(A,GEE00476)"	DCP11264 -> downregulates -> GEE01169 -> experiments -> GEE00476 -> candidate_for -> DM06
+DCP11264	5	0.2718	"219	37	0.1689497716894977	candidate_for(X,DM06) <= binds(X,A), experiments(A,GEE10062)"	DCP11264 -> binds -> GEE14710 -> experiments -> GEE10062 -> candidate_for -> DM06
+DCP11264	6	0.2428	"338	51	0.15088757396449703	candidate_for(X,DM06) <= downregulates(X,A), experiments(A,GEE00100)"	DCP11264 -> downregulates -> GEE01169 -> experiments -> GEE00100 -> candidate_for -> DM06
+DCP11264	7	0.2402	"44	15	0.3409090909090909	candidate_for(X,DM06) <= palliates(X,A), associates(A,GEE08269)"	DCP11264 -> palliates -> DIMM00061 -> associates -> GEE08269 -> candidate_for -> DM06
+DCP11264	8	0.2391	"175	26	0.14857142857142858	candidate_for(X,DM06) <= downregulates(X,A), experiments_transferred(A,GEE14262)"	DCP11264 -> downregulates -> GEE01725 -> experiments_transferred -> GEE14262 -> candidate_for -> DM06
+DCP11264	9	0.2316	"521	75	0.14395393474088292	candidate_for(X,DM06) <= binds(X,A), experiments(A,GEE00973)"	DCP11264 -> binds -> GEE05919 -> experiments -> GEE00973 -> candidate_for -> DM06
+DCP11264	10	0.2305	"356	51	0.14325842696629212	candidate_for(X,DM06) <= downregulates(X,A), experiments(A,GEE01268)"	DCP11264 -> downregulates -> GEE02562 -> experiments -> GEE01268 -> candidate_for -> DM06
+DCP04678	1	0.1494	BFS_PATH	DCP04678 -> treats -> DIMM00003 -> is_associated_with -> GEE12807 -> experiments -> GEE07134 -> is_associated_with -> DM06
+DCP04678	2	0.1494	BFS_PATH	DCP04678 -> treats -> DIMM00003 -> associates -> GEE12807 -> experiments -> GEE07134 -> is_associated_with -> DM06
+DCP04678	3	0.0828	BFS_PATH	DCP04678 -> treats -> DIMM00003 -> associates -> GEE13767 -> is_associated_with -> DM06
+DCP04678	4	0.0787	BFS_PATH	DCP04678 -> treats -> DIMM00003 -> is_associated_with -> GEE13527 -> textmining -> GEE10118 -> is_associated_with -> DM06
+DCP04678	5	0.0787	BFS_PATH	DCP04678 -> treats -> DIMM00003 -> is_associated_with -> GEE12834 -> textmining -> GEE16564 -> is_associated_with -> DM06
+DCP04678	6	0.0787	BFS_PATH	DCP04678 -> treats -> DIMM00003 -> is_associated_with -> GEE12834 -> database -> GEE16564 -> is_associated_with -> DM06
+DCP04678	7	0.0787	BFS_PATH	DCP04678 -> treats -> DIMM00003 -> is_associated_with -> GEE12354 -> textmining -> GEE14022 -> is_associated_with -> DM06
+DCP04678	8	0.0787	BFS_PATH	DCP04678 -> treats -> DIMM00003 -> is_associated_with -> GEE12141 -> textmining -> GEE08245 -> is_associated_with -> DM06
+DCP04678	9	0.0787	BFS_PATH	DCP04678 -> treats -> DIMM00003 -> expresses -> GEE15585 -> textmining -> GEE11025 -> is_associated_with -> DM06
+DCP04678	10	0.0787	BFS_PATH	DCP04678 -> treats -> DIMM00003 -> expresses -> GEE13859 -> interacts -> GEE16579 -> is_associated_with -> DM06
+DCP12738	1	0.0828	BFS_PATH	DCP12738 -> treats -> DIMM00198 -> is_associated_with -> GEE14022 -> is_associated_with -> DM06
+DCP12738	2	0.0787	BFS_PATH	DCP12738 -> treats -> DIMM00198 -> is_associated_with -> GEE15585 -> textmining -> GEE11025 -> is_associated_with -> DM06
+DCP12738	3	0.0787	BFS_PATH	DCP12738 -> treats -> DIMM00198 -> is_associated_with -> GEE14710 -> textmining -> GEE08031 -> is_associated_with -> DM06
+DCP12738	4	0.0787	BFS_PATH	DCP12738 -> treats -> DIMM00198 -> is_associated_with -> GEE14062 -> database -> GEE12618 -> is_associated_with -> DM06
+DCP12738	5	0.0787	BFS_PATH	DCP12738 -> treats -> DIMM00198 -> is_associated_with -> GEE13142 -> textmining -> GEE13767 -> is_associated_with -> DM06
+DCP12738	6	0.0787	BFS_PATH	DCP12738 -> treats -> DIMM00198 -> is_associated_with -> GEE13083 -> textmining -> GEE12618 -> is_associated_with -> DM06
+DCP12738	7	0.0787	BFS_PATH	DCP12738 -> treats -> DIMM00198 -> is_associated_with -> GEE12923 -> textmining -> GEE15632 -> is_associated_with -> DM06
+DCP12738	8	0.0787	BFS_PATH	DCP12738 -> treats -> DIMM00198 -> is_associated_with -> GEE12790 -> homology -> GEE10085 -> is_associated_with -> DM06
+DCP12738	9	0.0787	BFS_PATH	DCP12738 -> treats -> DIMM00198 -> is_associated_with -> GEE12790 -> homology -> GEE09599 -> is_associated_with -> DM06
+DCP12738	10	0.0787	BFS_PATH	DCP12738 -> treats -> DIMM00198 -> is_associated_with -> GEE12790 -> database -> GEE10085 -> is_associated_with -> DM06
+DCP10156	1	0.1494	BFS_PATH	DCP10156 -> treats -> DIMM15447 -> is_associated_with -> GEE05989 -> experiments -> GEE11508 -> is_associated_with -> DM06
+DCP10156	2	0.1494	BFS_PATH	DCP10156 -> treats -> DIMM15447 -> is_associated_with -> GEE05813 -> experiments -> GEE16623 -> is_associated_with -> DM06
+DCP10156	3	0.1494	BFS_PATH	DCP10156 -> treats -> DIMM15447 -> is_associated_with -> GEE03827 -> experiments -> GEE13159 -> is_associated_with -> DM06
+DCP10156	4	0.1494	BFS_PATH	DCP10156 -> treats -> DIMM15447 -> is_associated_with -> GEE00401 -> experiments -> GEE09873 -> is_associated_with -> DM06
+DCP10156	5	0.0940	"15	2	0.13333333333333333	candidate_for(X,DM06) <= treats(X,A), is_associated_with(A,GEE17716)"	DCP10156 -> treats -> DIMM15447 -> is_associated_with -> GEE17716 -> candidate_for -> DM06
+DCP10156	6	0.0787	BFS_PATH	DCP10156 -> treats -> DIMM15447 -> is_associated_with -> GEE11080 -> textmining -> GEE17012 -> is_associated_with -> DM06
+DCP10156	7	0.0787	BFS_PATH	DCP10156 -> treats -> DIMM15447 -> is_associated_with -> GEE08442 -> textmining -> GEE06896 -> is_associated_with -> DM06
+DCP10156	8	0.0787	BFS_PATH	DCP10156 -> treats -> DIMM15447 -> is_associated_with -> GEE07629 -> homology -> GEE17012 -> is_associated_with -> DM06
+DCP10156	9	0.0787	BFS_PATH	DCP10156 -> treats -> DIMM15447 -> is_associated_with -> GEE06585 -> textmining -> GEE10509 -> is_associated_with -> DM06
+DCP10156	10	0.0787	BFS_PATH	DCP10156 -> treats -> DIMM15447 -> is_associated_with -> GEE06585 -> database -> GEE08026 -> is_associated_with -> DM06
+DCP07553	1	0.1494	BFS_PATH	DCP07553 -> treats -> DIMM00041 -> expresses -> GEE15461 -> experiments -> GEE03552 -> is_associated_with -> DM06
+DCP07553	2	0.0828	BFS_PATH	DCP07553 -> treats -> DIMM00041 -> expresses -> GEE17813 -> is_associated_with -> DM06
+DCP07553	3	0.0828	BFS_PATH	DCP07553 -> treats -> DIMM00041 -> expresses -> GEE16730 -> is_associated_with -> DM06
+DCP07553	4	0.0828	BFS_PATH	DCP07553 -> treats -> DIMM00041 -> downregulates -> GEE17728 -> is_associated_with -> DM06
+DCP07553	5	0.0787	BFS_PATH	DCP07553 -> treats -> DIMM17813 -> is_associated_with -> GEE14716 -> textmining -> GEE12618 -> is_associated_with -> DM06
+DCP07553	6	0.0787	BFS_PATH	DCP07553 -> treats -> DIMM17813 -> is_associated_with -> GEE14716 -> homology -> GEE12618 -> is_associated_with -> DM06
+DCP07553	7	0.0787	BFS_PATH	DCP07553 -> treats -> DIMM17813 -> is_associated_with -> GEE14716 -> coexpression -> GEE12618 -> is_associated_with -> DM06
+DCP07553	8	0.0787	BFS_PATH	DCP07553 -> treats -> DIMM17813 -> is_associated_with -> GEE13083 -> textmining -> GEE12618 -> is_associated_with -> DM06
+DCP07553	9	0.0787	BFS_PATH	DCP07553 -> treats -> DIMM17813 -> is_associated_with -> GEE12923 -> textmining -> GEE15632 -> is_associated_with -> DM06
+DCP07553	10	0.0787	BFS_PATH	DCP07553 -> treats -> DIMM17813 -> is_associated_with -> GEE12611 -> textmining -> GEE13104 -> is_associated_with -> DM06
+DCP10157	1	0.1494	BFS_PATH	DCP10157 -> treats -> DIMM07100 -> is_associated_with -> GEE06363 -> experiments -> GEE07134 -> is_associated_with -> DM06
+DCP10157	2	0.1494	BFS_PATH	DCP10157 -> treats -> DIMM07100 -> is_associated_with -> GEE03991 -> experiments -> GEE12987 -> is_associated_with -> DM06
+DCP10157	3	0.0787	BFS_PATH	DCP10157 -> treats -> DIMM07100 -> is_associated_with -> GEE11931 -> textmining -> GEE07134 -> is_associated_with -> DM06
+DCP10157	4	0.0787	BFS_PATH	DCP10157 -> treats -> DIMM07100 -> is_associated_with -> GEE11016 -> database -> GEE10910 -> is_associated_with -> DM06
+DCP10157	5	0.0787	BFS_PATH	DCP10157 -> treats -> DIMM07100 -> is_associated_with -> GEE11016 -> database -> GEE05887 -> is_associated_with -> DM06
+DCP10157	6	0.0787	BFS_PATH	DCP10157 -> treats -> DIMM07100 -> is_associated_with -> GEE10934 -> interacts -> GEE10973 -> is_associated_with -> DM06
+DCP10157	7	0.0787	BFS_PATH	DCP10157 -> treats -> DIMM07100 -> is_associated_with -> GEE08044 -> textmining -> GEE05150 -> is_associated_with -> DM06
+DCP10157	8	0.0787	BFS_PATH	DCP10157 -> treats -> DIMM07100 -> is_associated_with -> GEE05816 -> textmining -> GEE14022 -> is_associated_with -> DM06
+DCP10157	9	0.0787	BFS_PATH	DCP10157 -> treats -> DIMM07100 -> is_associated_with -> GEE05485 -> textmining -> GEE12618 -> is_associated_with -> DM06
+DCP10157	10	0.0787	BFS_PATH	DCP10157 -> treats -> DIMM07100 -> is_associated_with -> GEE05285 -> interacts -> GEE16564 -> is_associated_with -> DM06
+DCP11226	1	0.3606	"174	39	0.22413793103448276	candidate_for(X,DM06) <= downregulates(X,A), experiments_transferred(A,GEE09782)"	DCP11226 -> downregulates -> GEE00914 -> experiments_transferred -> GEE09782 -> candidate_for -> DM06
+DCP11226	2	0.3564	"158	35	0.22151898734177214	candidate_for(X,DM06) <= downregulates(X,A), experiments(A,GEE08260)"	DCP11226 -> downregulates -> GEE00914 -> experiments -> GEE08260 -> candidate_for -> DM06
+DCP11226	3	0.2943	"82	15	0.18292682926829268	candidate_for(X,DM06) <= binds(X,A), experiments(A,GEE01081)"	DCP11226 -> binds -> GEE00749 -> experiments -> GEE01081 -> candidate_for -> DM06
+DCP11226	4	0.2935	"159	29	0.18238993710691823	candidate_for(X,DM06) <= binds(X,A), experiments(A,GEE03423)"	DCP11226 -> binds -> GEE02725 -> experiments -> GEE03423 -> candidate_for -> DM06
+DCP11226	5	0.2736	"247	42	0.1700404858299595	candidate_for(X,DM06) <= downregulates(X,A), experiments(A,GEE00476)"	DCP11226 -> downregulates -> GEE01169 -> experiments -> GEE00476 -> candidate_for -> DM06
+DCP11226	6	0.2700	"298	50	0.16778523489932887	candidate_for(X,DM06) <= downregulates(X,A), experiments(A,GEE00711)"	DCP11226 -> downregulates -> GEE00914 -> experiments -> GEE00711 -> candidate_for -> DM06
+DCP11226	7	0.2537	"222	35	0.15765765765765766	candidate_for(X,DM06) <= expresses(X,A), experiments_transferred(A,GEE00914)"	DCP11226 -> expresses -> GEE00676 -> experiments_transferred -> GEE00914 -> candidate_for -> DM06
+DCP11226	8	0.2428	"338	51	0.15088757396449703	candidate_for(X,DM06) <= downregulates(X,A), experiments(A,GEE00100)"	DCP11226 -> downregulates -> GEE01169 -> experiments -> GEE00100 -> candidate_for -> DM06
+DCP11226	9	0.2428	"338	51	0.15088757396449703	candidate_for(X,DM06) <= downregulates(X,A), experiments(A,GEE00100)"	DCP11226 -> downregulates -> GEE00914 -> experiments -> GEE00100 -> candidate_for -> DM06
+DCP11226	10	0.2402	"44	15	0.3409090909090909	candidate_for(X,DM06) <= palliates(X,A), associates(A,GEE08269)"	DCP11226 -> palliates -> DIMM00061 -> associates -> GEE08269 -> candidate_for -> DM06
+DCP12927	1	0.3678	"175	40	0.22857142857142856	candidate_for(X,DM06) <= downregulates(X,A), experiments_transferred(A,GEE04307)"	DCP12927 -> downregulates -> GEE02775 -> experiments_transferred -> GEE04307 -> candidate_for -> DM06
+DCP12927	2	0.3185	"197	39	0.19796954314720813	candidate_for(X,DM06) <= downregulates(X,A), experiments(A,GEE19180)"	DCP12927 -> downregulates -> GEE02775 -> experiments -> GEE19180 -> candidate_for -> DM06
+DCP12927	3	0.3065	"15	6	0.4	candidate_for(X,DM06) <= binds(X,A), is_associated_with(A,DCP10135)"	DCP12927 -> binds -> GEE09692 -> is_associated_with -> DCP10135 -> candidate_for -> DM06
+DCP12927	4	0.2877	"51	17	0.3333333333333333	candidate_for(X,DM06) <= binds(X,A), regulates(A,GEE06237)"	DCP12927 -> binds -> GEE06353 -> regulates -> GEE06237 -> candidate_for -> DM06
+DCP12927	5	0.2718	"219	37	0.1689497716894977	candidate_for(X,DM06) <= binds(X,A), experiments(A,GEE10062)"	DCP12927 -> binds -> GEE14710 -> experiments -> GEE10062 -> candidate_for -> DM06
+DCP12927	6	0.2603	"63	19	0.30158730158730157	candidate_for(X,DM06) <= binds(X,A), regulates(A,GEE03047)"	DCP12927 -> binds -> GEE06353 -> regulates -> GEE03047 -> candidate_for -> DM06
+DCP12927	7	0.2589	"20	6	0.3	candidate_for(X,DM06) <= binds(X,A), textmining(A,GEE01845)"	DCP12927 -> binds -> GEE09692 -> textmining -> GEE01845 -> candidate_for -> DM06
+DCP12927	8	0.2579	"87	26	0.2988505747126437	candidate_for(X,DM06) <= binds(X,A), textmining(A,GEE01104)"	DCP12927 -> binds -> GEE12311 -> textmining -> GEE01104 -> candidate_for -> DM06
+DCP12927	9	0.2496	"48	17	0.3541666666666667	candidate_for(X,DM06) <= binds(X,A), is_involved_in(A,PW0201)"	DCP12927 -> binds -> GEE12311 -> is_involved_in -> PW0201 -> candidate_for -> DM06
+DCP12927	10	0.2416	"92	29	0.31521739130434784	candidate_for(X,DM06) <= binds(X,A), is_associated_with(A,DIMM26386)"	DCP12927 -> binds -> GEE05485 -> is_associated_with -> DIMM26386 -> candidate_for -> DM06
+DCP11343	1	0.4703	"65	19	0.2923076923076923	candidate_for(X,DM06) <= downregulates(X,A), experiments_transferred(A,GEE13652)"	DCP11343 -> downregulates -> GEE16008 -> experiments_transferred -> GEE13652 -> candidate_for -> DM06
+DCP11343	2	0.4703	"65	19	0.2923076923076923	candidate_for(X,DM06) <= downregulates(X,A), experiments_transferred(A,GEE13652)"	DCP11343 -> downregulates -> GEE03368 -> experiments_transferred -> GEE13652 -> candidate_for -> DM06
+DCP11343	3	0.4573	"95	27	0.28421052631578947	candidate_for(X,DM06) <= downregulates(X,A), experiments_transferred(A,GEE00969)"	DCP11343 -> downregulates -> GEE04036 -> experiments_transferred -> GEE00969 -> candidate_for -> DM06
+DCP11343	4	0.4425	"80	22	0.275	candidate_for(X,DM06) <= downregulates(X,A), experiments(A,GEE04889)"	DCP11343 -> downregulates -> GEE12062 -> experiments -> GEE04889 -> candidate_for -> DM06
+DCP11343	5	0.4315	"14	7	0.5	candidate_for(X,DM06) <= downregulates(X,A), coexpression(A,GEE09898)"	DCP11343 -> downregulates -> GEE02572 -> coexpression -> GEE09898 -> candidate_for -> DM06
+DCP11343	6	0.4313	"97	26	0.26804123711340205	candidate_for(X,DM06) <= downregulates(X,A), experiments_transferred(A,GEE14418)"	DCP11343 -> downregulates -> GEE04538 -> experiments_transferred -> GEE14418 -> candidate_for -> DM06
+DCP11343	7	0.4313	"97	26	0.26804123711340205	candidate_for(X,DM06) <= downregulates(X,A), experiments_transferred(A,GEE14418)"	DCP11343 -> downregulates -> GEE03510 -> experiments_transferred -> GEE14418 -> candidate_for -> DM06
+DCP11343	8	0.4291	"135	36	0.26666666666666666	candidate_for(X,DM06) <= downregulates(X,A), experiments_transferred(A,GEE03725)"	DCP11343 -> downregulates -> GEE04876 -> experiments_transferred -> GEE03725 -> candidate_for -> DM06
+DCP11343	9	0.4291	"135	36	0.26666666666666666	candidate_for(X,DM06) <= downregulates(X,A), experiments_transferred(A,GEE03725)"	DCP11343 -> downregulates -> GEE03523 -> experiments_transferred -> GEE03725 -> candidate_for -> DM06
+DCP11343	10	0.4291	"135	36	0.26666666666666666	candidate_for(X,DM06) <= downregulates(X,A), experiments_transferred(A,GEE03725)"	DCP11343 -> downregulates -> GEE03368 -> experiments_transferred -> GEE03725 -> candidate_for -> DM06
