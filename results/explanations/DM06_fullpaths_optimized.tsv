@@ -1,0 +1,21 @@
+Drug	Path	Rule	Score
+DCP11264	DCP11264 → downregulates → GEE02562 → experiments_transferred → GEE10905 → candidate_for → DM06	"82	20	0.24390243902439024	candidate_for(X,DM06) <= downregulates(X,A), experiments_transferred(A,GEE10905)"	0.3924
+DCP11264	DCP11264 → downregulates → GEE02562 → experiments_transferred → GEE07121 → candidate_for → DM06	"111	22	0.1981981981981982	candidate_for(X,DM06) <= downregulates(X,A), experiments_transferred(A,GEE07121)"	0.3189
+DCP11264	DCP11264 → downregulates → GEE02562 → experiments → GEE05986 → candidate_for → DM06	"129	25	0.1937984496124031	candidate_for(X,DM06) <= downregulates(X,A), experiments(A,GEE05986)"	0.3118
+DCP11264	DCP11264 → downregulates → GEE01169 → experiments → GEE00476 → candidate_for → DM06	"247	42	0.1700404858299595	candidate_for(X,DM06) <= downregulates(X,A), experiments(A,GEE00476)"	0.2736
+DCP11264	DCP11264 → binds → GEE14710 → experiments → GEE10062 → candidate_for → DM06	"219	37	0.1689497716894977	candidate_for(X,DM06) <= binds(X,A), experiments(A,GEE10062)"	0.2718
+DCP11264	DCP11264 → downregulates → GEE01169 → experiments → GEE00100 → candidate_for → DM06	"338	51	0.15088757396449703	candidate_for(X,DM06) <= downregulates(X,A), experiments(A,GEE00100)"	0.2428
+DCP11264	DCP11264 → palliates → DIMM00061 → associates → GEE08269 → candidate_for → DM06	"44	15	0.3409090909090909	candidate_for(X,DM06) <= palliates(X,A), associates(A,GEE08269)"	0.2402
+DCP11264	DCP11264 → downregulates → GEE01725 → experiments_transferred → GEE14262 → candidate_for → DM06	"175	26	0.14857142857142858	candidate_for(X,DM06) <= downregulates(X,A), experiments_transferred(A,GEE14262)"	0.2391
+DCP11264	DCP11264 → binds → GEE05919 → experiments → GEE00973 → candidate_for → DM06	"521	75	0.14395393474088292	candidate_for(X,DM06) <= binds(X,A), experiments(A,GEE00973)"	0.2316
+DCP11264	DCP11264 → downregulates → GEE02562 → experiments → GEE01268 → candidate_for → DM06	"356	51	0.14325842696629212	candidate_for(X,DM06) <= downregulates(X,A), experiments(A,GEE01268)"	0.2305
+HEB1435	HEB1435 → is_associated_with → GEE04859 → experiments → GEE05772 → experiments → GEE16564 → is_associated_with → DM06	BFS_PATH	0.2134
+HEB1435	HEB1435 → is_associated_with → GEE04859 → experiments → GEE00401 → experiments → GEE09873 → is_associated_with → DM06	BFS_PATH	0.2134
+HEB1435	HEB1435 → is_associated_with → GEE04495 → experiments → GEE00209 → experiments → GEE06982 → is_associated_with → DM06	BFS_PATH	0.2134
+HEB1435	HEB1435 → is_associated_with → GEE03899 → experiments → GEE02617 → experiments → GEE11508 → is_associated_with → DM06	BFS_PATH	0.2134
+HEB1435	HEB1435 → is_associated_with → GEE03899 → experiments → GEE01290 → experiments → GEE02648 → is_associated_with → DM06	BFS_PATH	0.2134
+HEB1435	HEB1435 → is_associated_with → GEE03899 → experiments → GEE00851 → experiments → GEE02648 → is_associated_with → DM06	BFS_PATH	0.2134
+HEB1435	HEB1435 → is_associated_with → GEE03793 → experiments → GEE07742 → experiments → GEE11048 → is_associated_with → DM06	BFS_PATH	0.2134
+HEB1435	HEB1435 → is_associated_with → GEE03793 → experiments → GEE05078 → experiments → GEE11048 → is_associated_with → DM06	BFS_PATH	0.2134
+HEB1435	HEB1435 → is_associated_with → GEE03793 → experiments → GEE03403 → experiments → GEE07592 → is_associated_with → DM06	BFS_PATH	0.2134
+HEB1435	HEB1435 → is_associated_with → GEE03720 → experiments → GEE17349 → experiments → GEE11675 → is_associated_with → DM06	BFS_PATH	0.2134
