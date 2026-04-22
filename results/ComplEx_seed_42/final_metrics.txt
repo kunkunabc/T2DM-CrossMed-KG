@@ -1,0 +1,6 @@
+Model: ComplEx
+Seed: 42
+Epochs: 30
+--------------------
+MRR     : 0.210628
+Hits@10 : 0.415911
