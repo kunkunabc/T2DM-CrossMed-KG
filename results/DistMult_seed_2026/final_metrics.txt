@@ -1,0 +1,6 @@
+Model: DistMult
+Seed: 2026
+Epochs: 30
+--------------------
+MRR     : 0.000180
+Hits@10 : 0.000253
